@@ -1,2 +1,0 @@
-# Patient_Disease_Prediction_and_Drug-_Suggestion
-NLP Project
